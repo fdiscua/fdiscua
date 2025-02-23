@@ -33,7 +33,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,mysql,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
