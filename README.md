@@ -1,24 +1,46 @@
-# Hi there! 👋 I'm Fernando (@fdiscua)  
+<!--
+    Hey there, I'm Fernando!
+    Happy to see you here exploring my README code
+    Feel free to browse!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @fernandodiscuajr :))
+-->
 
-## 👀 Interests  
-I'm passionate about **data science, machine learning, and modeling**. Always exploring new ways to extract insights from data!  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=header" alt="header"/> 
 
-## 🌱 Currently Learning  
-- **Python** for data science & machine learning  
-- **Modeling** techniques for real-world applications  
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=001F3F&width=435&lines=Hello%2C+it's+Fernando+Discua+Jr;Data+Scientist" alt="Data Scientist"/>
+</a>
 
-## 💡 Looking to Collaborate  
-I'm open to working on **interesting applications and models**—let's build something awesome together!  
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fernandodiscuajr/)  
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
 
-## ⚡ Fun Fact  
-I’m a **Jiu-Jitsu blue belt**! 🥋  
+<!--
+     My mission, because I'm a superhero!
+-->
 
+### My mission
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
+<!--
+     This is the list of my skills and tools I am studying!
+-->
 
-<!---
-fdiscua/fdiscua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,mysql,html,css,)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+
+### Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fernandodiscuajr/)
+
+<!--
+     Thanks for being my guest
+-->
